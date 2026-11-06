@@ -17,7 +17,7 @@ Mainly using Python as an implementation of the theory learnt in class.
 * **Frontencd:** HTML5, CSS3, JavaScript (Vanilla JS)
 * **Backend:** Python (Flask)
 * **Database:** SQL
-* **Deployment:** [Vercel](https://lpg-gas-booking-project.vercel.app)
+* **Deployment:** [Vercel](https://proyek-kelompok-8-ddp1.vercel.app/)
 
 ---
 
