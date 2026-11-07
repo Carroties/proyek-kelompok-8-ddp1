@@ -1,3 +1,42 @@
 body {
     background-color: greenyellow;
 }
+
+.navbar,
+.hero-section,
+.feature-section,
+.footer-section {
+    border: 3px solid black;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    background: lightgreen;
+    padding: min(15px, 8%);
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.interactive-btn {
+  appearance: none;
+  border: 2px solid white;
+  background: green;
+  color: white;
+  padding: 0.7rem;
+  font-size: 1.5em;
+  font-weight: bold;
+  border-radius: 16px;
+  cursor: pointer;
+  transition-property: background-color, border-color, color;
+  transition-duration: 250ms;
+  transition-timing-function: ease-out;
+  
+  &:hover {
+    background-color: white;
+    border-color: green;
+    color: green;
+  }
+}
