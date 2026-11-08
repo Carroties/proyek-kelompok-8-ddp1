@@ -15,7 +15,7 @@ Mainly using Python as an implementation of the theory learnt in class.
 ## Tech Stack
 
 * **Frontencd:** HTML5, CSS3, JavaScript (Vanilla JS)
-* **Backend:** Python (Flask)
+* **Backend:** Python (Django)
 * **Database:** SQL
 * **Deployment:** [Vercel](https://proyek-kelompok-8-ddp1.vercel.app/)
 
