@@ -13,3 +13,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Basic scripts (HTML5, CSS3, Javascript, Python) for future base for codes
 - Deployed the website to public via Vercel
 - Added README.md for the project's description and CHANGELOG.md for tracking its progress
+- Added Django for backend and learning purposes
