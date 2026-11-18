@@ -3,7 +3,7 @@
 An intuitive web-based application designed solely for DDP1 Project assignment in Fasilkom UI.
 Mainly using Python as an implementation of the theory learnt in class.
 
----asdasd
+---
 
 ## Features
 
